@@ -1,4 +1,13 @@
-# Hello, I'm Manoel Teles! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=900020&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFF4F4&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Manoel+Teles!+%F0%9F%91%8B;I'm+20+years+old.+;I'm+Software+Engineering+student+at+UCB.+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</div>
+
+<br> <br>
+
 
 I am a student of Software Engineering at the Catholic University of Brasília (UCB) with a keen interest in areas such as software development, cloud computing, and artificial intelligence. Currently, I am focused on learning and enhancing my skills in software development, including C, as well as deepening my knowledge of cloud platforms, always with the goal of turning theory into practice.
 
@@ -15,8 +24,8 @@ My passion lies in learning and sharing new knowledge in programming, as well as
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180">
 </div>
 
 ## 🚀 Current Focus:
