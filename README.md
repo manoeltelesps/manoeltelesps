@@ -4,26 +4,23 @@ I am a Software Engineering student at Universidade Católica de Brasília, cons
 
 ## 🛠 Technologies & Tools I Use:
 
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
 
 ## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=default)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=dark" height="180">
+</div>
 
 ## 🚀 Current Focus:
 
-As a student of Software Engineering, I'm focused on
-:
+As a student of Software Engineering, I'm focused on:
 - Strengthening my foundation in programming.
-- Continuously enhancing my problem-solving skills through coding challenges and projects
+- Continuously enhancing my problem-solving skills through coding challenges and projects.
 
 ## 📫 How to Reach Me:
 
 - [LinkedIn](https://www.linkedin.com/in/manoel-pedro-866113328/)
 - [Instagram](https://www.instagram.com/manoelpedrops_/)
-
-
