@@ -5,9 +5,9 @@ I am a Software Engineering student in my second semester at Universidade Catól
 ## 🛠 Technologies & Tools I Use:
 
 <div style="display: flex; gap: 15px;">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
+  <img src="Imagens/1_Aenej4dxqEZ9j7zsI9pSnw-removebg-preview.png" height="40"/> 
+  <img src="Imagens/download.png" height="40"/>
+  <img src="Imagens/downloadC-removebg-preview.png" height="40"/>
 </div>
 
 ## 📊 GitHub Stats:
@@ -27,9 +27,9 @@ As a student of Software Engineering, I'm focused on:
 
 <div style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/manoel-pedro-866113328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="Imagens/vecteezy_linkedin-logo-vector-linkedin-symbol-linkedin-icon-free_18910721-removebg-preview.png" height="40"/>
   </a>
   <a href="https://www.instagram.com/manoelpedrops_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+    <img src="Imagens/Instagram_icon.png" height="40"/>
   </a>
 </div>
