@@ -1,6 +1,8 @@
 # Hello, I'm Manoel Teles! 👋
 
-I am a Software Engineering student in my second semester at Universidade Católica de Brasília, constantly expanding my knowledge in web development and programming. My passion lies in learning and sharing new knowledge in programming, and exploring new technologies. This profile is where I showcase my personal projects, experiments, and study materials.
+I am a student of Software Engineering at the Catholic University of Brasília (UCB) with a keen interest in areas such as software development, cloud computing, and artificial intelligence. Currently, I am focused on enhancing my skills in C and C++, as well as deepening my knowledge of cloud platforms, always with the goal of turning theory into practice.
+
+My passion lies in learning and sharing new knowledge in programming, as well as exploring emerging technologies. This profile is where I showcase my personal projects, experiments, and study materials.
 
 ## 🛠 Technologies & Tools I Use:
 
@@ -20,8 +22,10 @@ I am a Software Engineering student in my second semester at Universidade Catól
 ## 🚀 Current Focus:
 
 As a student of Software Engineering, I'm focused on:
-- Strengthening my foundation in programming.
-- Continuously enhancing my problem-solving skills through coding challenges and projects.
+
+- Turning theory into practice through personal projects and experiments.
+- Exploring new technologies and emerging trends in artificial intelligence and software development.
+- Sharing and disseminating knowledge about programming and technology with the academic community and beyond.
 
 ## 📫 How to Reach Me:
 
