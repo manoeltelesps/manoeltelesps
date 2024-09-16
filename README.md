@@ -1,11 +1,14 @@
 # Hello, I'm Manoel Teles! 👋
 
-I am a Software Engineering student at Universidade Católica de Brasília, constantly expanding my knowledge in web development and programming. My passion lies in building responsive, interactive web applications, and exploring new technologies. This profile is where I showcase my personal projects, experiments, and study materials.
+I am a Software Engineering student in my second semester at Universidade Católica de Brasília, constantly expanding my knowledge in web development and programming. My passion lies in building responsive, interactive web applications, and exploring new technologies. This profile is where I showcase my personal projects, experiments, and study materials.
 
 ## 🛠 Technologies & Tools I Use:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+</div>
 
 ## 📊 GitHub Stats:
 
@@ -22,5 +25,11 @@ As a student of Software Engineering, I'm focused on:
 
 ## 📫 How to Reach Me:
 
-- [LinkedIn](https://www.linkedin.com/in/manoel-pedro-866113328/)
-- [Instagram](https://www.instagram.com/manoelpedrops_/)
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/manoel-pedro-866113328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/manoelpedrops_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+</div>
