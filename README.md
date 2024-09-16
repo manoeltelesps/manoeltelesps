@@ -1,6 +1,6 @@
 # Hello, I'm Manoel Teles! 👋
 
-I am a Software Engineering student in my second semester at Universidade Católica de Brasília, constantly expanding my knowledge in web development and programming. My passion lies in building responsive, interactive web applications, and exploring new technologies. This profile is where I showcase my personal projects, experiments, and study materials.
+I am a Software Engineering student in my second semester at Universidade Católica de Brasília, constantly expanding my knowledge in web development and programming. My passion lies in learning and sharing new knowledge in programming, and exploring new technologies. This profile is where I showcase my personal projects, experiments, and study materials.
 
 ## 🛠 Technologies & Tools I Use:
 
