@@ -15,8 +15,8 @@ My passion lies in learning and sharing new knowledge in programming, as well as
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180">
 </div>
 
 ## 🚀 Current Focus:
