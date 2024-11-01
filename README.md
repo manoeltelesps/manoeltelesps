@@ -11,7 +11,7 @@
 <br> <br>
 
 
-I am a student of Software Engineering at the Catholic University of Brasília (UCB) with a keen interest in areas such as software development, cloud computing, and artificial intelligence. Currently, I am focused on learning and enhancing my skills in software development, including C, as well as deepening my knowledge of cloud platforms, always with the goal of turning theory into practice.
+I am a student of Software Engineering at the Catholic University of Brasília (UCB) with a keen interest in areas such as software development, game development, and artificial intelligence. Currently, I am focused on learning and enhancing my skills in software development, including C, always with the goal of turning theory into practice.
 
 My passion lies in learning and sharing new knowledge in programming, as well as exploring emerging technologies. This profile is where I showcase my personal projects, experiments, and study materials.
 
