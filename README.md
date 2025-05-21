@@ -1,12 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=900020&height=120&section=header"/>  
 
-<div align="center">  
-  <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFF4F4&center=true&vCenter=true&random=true&width=800&lines=Olá%2C+eu+sou+Manoel+Teles!+%F0%9F%91%8B;Tenho+20+anos.+;Sou+estudante+de+Engenharia+de+Software+na+UCB.+%F0%9F%8E%93;Sou+iOS+Developer+na+Apple+Developer+Academy+%7C+UCB+%F0%9F%8F%AB+%F0%9F%8D%8F" alt="Typing SVG" />  
-  </a>  
-</div>  
-
-<br><br>  
 
 Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) e iOS Developer na Apple Developer Academy | UCB . Apaixonado por desenvolvimento de software, jogos e aplicativos, busco constantemente transformar teoria em prática por meio de projetos e experimentos.  
 
