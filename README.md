@@ -41,6 +41,6 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180", width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180", width = "335"/>
 </p>
