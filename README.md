@@ -1,39 +1,46 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=900020&height=120&section=header"/>  
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Math&weight=800&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+Manoel+Pedro!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</p>
 
-Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) e iOS Developer na Apple Developer Academy | UCB . Apaixonado por desenvolvimento de software, jogos e aplicativos, busco constantemente transformar teoria em prática por meio de projetos e experimentos.  
+Estudante de Engenharia de Software na <strong>Universidade Católica de Brasília (UCB)</strong> e 
+<strong>iOS Developer</strong> na <strong>Apple Developer Academy | UCB</strong>. Sou apaixonado por desenvolvimento de software, especialmente na criação de aplicativos e jogos iOS. Tenho interesse em transformar aprendizado em projetos reais e funcionais, que impactem pessoas de verdade.
 
-Gosto de aprender e compartilhar conhecimento sobre programação, além de explorar novas tecnologias. Este perfil reúne meus projetos pessoais, estudos e experimentos.  
+---
 
-## 🛠 Tecnologias & Ferramentas que Uso:  
+### 🧠 O que estou estudando
 
-<div style="display: flex; gap: 10px;">  
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>   
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>  
-</div>  
+- Desenvolvimento de aplicativos iOS  
+- Arquiteturas modernas e boas práticas no ecossistema Apple  
+- Criação de pequenos jogos e apps experimentais como forma de aprendizado  
+- Colaboração em equipe, testes e versionamento com Git  
 
-## 📊 Estatísticas do GitHub:  
+---
 
-<div style="display: flex; justify-content: space-between;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180">  
-</div>  
+## 🛠 Tecnologias e Ferramentas
 
-## 🚀 Foco Atual:  
+### 🧩 Linguagens & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+</p>
 
-- Desenvolver aplicativos iOS e explorar o ecossistema da Apple.    
-- Experimentar desenvolvimento de jogos e aplicativos.  
-- Compartilhar conhecimento e colaborar com a comunidade tech.  
+### 🔧 Ferramentas de Desenvolvimento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+</p>
 
-## 📫 Como me Encontrar:  
+---
 
-<div style="display: flex; gap: 10px;">  
-  <a href="https://www.linkedin.com/in/manoel-pedro-866113328/">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>  
-  </a>  
-  <a href="https://www.instagram.com/manoelpedrops_/">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>  
-  </a>  
-</div>  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180", width="500"/>
+</p>
