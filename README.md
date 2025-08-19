@@ -7,7 +7,7 @@
 </p>
 
 Estudante de Engenharia de Software na <strong>Universidade Católica de Brasília (UCB)</strong> e 
-<strong>iOS Developer</strong> na <strong>Apple Developer Academy | UCB</strong>. Sou apaixonado por desenvolvimento de software, especialmente na criação de aplicativos e jogos iOS. Tenho interesse em transformar aprendizado em projetos reais e funcionais, que impactem pessoas de verdade.
+<strong>iOS Developer</strong> na <strong>Apple Developer Academy | UCB</strong>. Sou apaixonado por desenvolvimento de software, especialmente na criação de aplicativos e jogos. Tenho interesse em transformar aprendizado em projetos reais e funcionais, que impactem pessoas de verdade.
 
 ---
 
