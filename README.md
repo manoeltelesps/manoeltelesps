@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoeltelesps"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portifolio-manoelpedro.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
+
 Estudante de Engenharia de Software na <strong>Universidade Católica de Brasília (UCB)</strong> e 
 <strong>iOS Developer</strong> na <strong>Apple Developer Academy | UCB</strong>. Sou apaixonado por desenvolvimento de software, especialmente na criação de aplicativos e jogos. Tenho interesse em transformar aprendizado em projetos reais e funcionais, que impactem pessoas de verdade.
 
@@ -20,6 +25,17 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
 
 ---
 
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| 🏆 [**Before The Light**](https://github.com/manoeltelesps/BeforeTheLight) | Vencedor do **Swift Student Challenge 2026** — App Playground interativo sobre o impacto humano da energia renovável |
+| 🐄 [**Curral**](https://apps.apple.com/br/app/curral/id6746702787) | App de gestão de fazenda publicado na **App Store** ([docs](https://github.com/manoeltelesps/curral-app-legal)) |
+| 🦁 [**ZooWho**](https://github.com/manoeltelesps/ZooWho) | Quiz iOS de animais em SwiftUI com reconhecimento de voz (Speech framework) e CI/CD via GitHub Actions |
+| 💼 [**Portfólio**](https://portifolio-manoelpedro.vercel.app) | Site pessoal — Astro/React, deploy na Vercel |
+
+---
+
 ## 🛠 Tecnologias e Ferramentas
 
 ### 🧩 Linguagens & Frameworks
@@ -30,7 +46,15 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height ="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
 ### 🔧 Ferramentas de Desenvolvimento
@@ -46,5 +70,5 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180", width = "335"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180" width="335"/>
 </p>
