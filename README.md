@@ -32,6 +32,7 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
 | 🏆 [**Before The Light**](https://github.com/manoeltelesps/BeforeTheLight) | Vencedor do **Swift Student Challenge 2026** — App Playground interativo sobre o impacto humano da energia renovável |
 | 🐄 [**Curral**](https://apps.apple.com/br/app/curral/id6746702787) | App de gestão de fazenda publicado na **App Store** ([docs](https://github.com/manoeltelesps/curral-app-legal)) |
 | 🦁 [**ZooWho**](https://github.com/manoeltelesps/ZooWho) | Quiz iOS de animais em SwiftUI com reconhecimento de voz (Speech framework) e CI/CD via GitHub Actions |
+| 🚀 [**Cosmo**](https://github.com/manoeltelesps/Cosmo) | App iOS que consome a API aberta da NASA — Foto do Dia e fotos do rover Curiosity em Marte |
 | 💼 [**Portfólio**](https://portifolio-manoelpedro.vercel.app) | Site pessoal — Astro/React, deploy na Vercel |
 
 ---
@@ -66,9 +67,29 @@ Estudante de Engenharia de Software na <strong>Universidade Católica de Brasíl
 
 ---
 
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manoeltelesps&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoeltelesps&theme=github-dark-blue" height="180"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180" width="335"/>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation dos meus commits" src="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
