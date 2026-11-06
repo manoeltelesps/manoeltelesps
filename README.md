@@ -16,22 +16,23 @@ Build software with agents and automate processes with AI, starting from a clear
 ## Stack
 
 ```yaml
-agents:  [Claude Code, Skills, MCP servers, Maestri]
-process: [Spec-Driven Development, context engineering, shared CLAUDE.md]
+agents:  [Claude Code, Maestri, subagents, hooks, Skills]
+harness: [context engineering, evals, MCP servers, local models]
+process: [Spec-Driven Development]
 apple:   [Swift, SwiftUI, Core ML, Create ML, Vision]
 ```
 
 ## Workflow
 
 1. Write the spec
-2. Organize the context
-3. Let agents implement, review and test against it
-4. Ship it and iterate with real users
+2. Build the harness around the agent
+3. Let agents implement, review and test against it, in parallel when it helps
+4. Run evals and iterate with real users
 
 ## Constraints
 
 - Spec before code
-- One shared CLAUDE.md, so the whole team works with agents the same way
+- A good agent depends on a good harness
 - Accessibility is a requirement from day one
 
 ## Shipped
