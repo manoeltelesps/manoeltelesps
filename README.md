@@ -1,95 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=900020&height=120&section=header"/>  
+# manoel.spec.md
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Math&weight=800&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+Manoel+Pedro!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
-  </a>
-</p>
+> The spec for the developer behind this profile. Agents are welcome to read it as context.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoeltelesps"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portifolio-manoelpedro.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+## Goal
 
-Estudante de Engenharia de Software na <strong>Universidade Católica de Brasília (UCB)</strong> e 
-<strong>iOS Developer</strong> na <strong>Apple Developer Academy | UCB</strong>. Sou apaixonado por desenvolvimento de software, especialmente na criação de aplicativos e jogos. Tenho interesse em transformar aprendizado em projetos reais e funcionais, que impactem pessoas de verdade.
+Build software with agents and automate processes with AI, starting from a clear spec and ending in something people actually use.
 
----
+## Context
 
-### 🧠 O que estou estudando
+- AI developer based in Brasília, Brazil
+- Software Engineering student at UCB
+- Almost two years at the Apple Developer Academy | UCB, shipping native apps to the App Store
+- Swift Student Challenge 2026 Winner
 
-- Desenvolvimento de aplicativos iOS  
-- Arquiteturas modernas e boas práticas no ecossistema Apple  
-- Criação de pequenos jogos e apps experimentais como forma de aprendizado  
-- Colaboração em equipe, testes e versionamento com Git  
+## Stack
 
----
+```yaml
+agents:  [Claude Code, Skills, MCP servers, Maestri]
+process: [Spec-Driven Development, context engineering, shared CLAUDE.md]
+apple:   [Swift, SwiftUI, Core ML, Create ML, Vision]
+```
 
-### 🚀 Projetos em destaque
+## Workflow
 
-| Projeto | Descrição |
+1. Write the spec
+2. Organize the context
+3. Let agents implement, review and test against it
+4. Ship it and iterate with real users
+
+## Constraints
+
+- Spec before code
+- One shared CLAUDE.md, so the whole team works with agents the same way
+- Accessibility is a requirement from day one
+
+## Shipped
+
+| Project | What it is |
 |---|---|
-| 🏆 [**Before The Light**](https://github.com/manoeltelesps/BeforeTheLight) | Vencedor do **Swift Student Challenge 2026** — App Playground interativo sobre o impacto humano da energia renovável |
-| 🐄 [**Curral**](https://apps.apple.com/br/app/curral/id6746702787) | App de gestão de fazenda publicado na **App Store** ([docs](https://github.com/manoeltelesps/curral-app-legal)) |
-| 🦁 [**ZooWho**](https://github.com/manoeltelesps/ZooWho) | Quiz iOS de animais em SwiftUI com reconhecimento de voz (Speech framework) e CI/CD via GitHub Actions |
-| 🚀 [**Cosmo**](https://github.com/manoeltelesps/Cosmo) | App iOS que consome a API aberta da NASA — Foto do Dia e fotos do rover Curiosity em Marte |
-| 💼 [**Portfólio**](https://portifolio-manoelpedro.vercel.app) | Site pessoal — Astro/React, deploy na Vercel |
+| 🏆 [Before the Light](https://github.com/manoeltelesps/BeforeTheLight) | Swift Student Challenge 2026 winner, an interactive App Playground about the human side of renewable energy |
+| 👁️ EyeSearch | Computer vision app that helps people with low vision find objects at home, with a custom Create ML model running on device |
+| ⌚ [Oratio](https://apps.apple.com/br/app/oratio/id6804803564) | Apple Watch app that tracks your speaking pace and taps your wrist when you speed up |
+| ✋ [Handraw](https://apps.apple.com/br/app/handraw-canvas-por-gestos/id6786850155) | macOS app that turns the Mac camera into a gesture sensor for drawing on an infinite canvas |
+| 🐄 [Curral](https://apps.apple.com/br/app/curral/id6746702787) | Dairy herd management app on the App Store, 276 organic downloads |
 
----
+## Interfaces
 
-## 🛠 Tecnologias e Ferramentas
-
-### 🧩 Linguagens & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
-### 🔧 Ferramentas de Desenvolvimento
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manoeltelesps&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoeltelesps&show_icons=true&theme=github_dark" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoeltelesps&theme=github-dark-blue" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoeltelesps&layout=compact&theme=github_dark" height="180"/>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation dos meus commits" src="https://raw.githubusercontent.com/manoeltelesps/manoeltelesps/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/manoeltelesps)
+- [X](https://x.com/mtelesdev)
+- [Portfolio](https://portifolio-manoelpedro.vercel.app)
+- manoeltelesdev@gmail.com
